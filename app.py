@@ -2,6 +2,10 @@ from flask import Flask, request, jsonify
 from predict_tags import load_model_and_encoders, predict_tag, post_process_tags
 import json
 
+import spacy
+spacy.cli.download("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm")
+
 app = Flask(__name__)
 
 # Load models once on startup

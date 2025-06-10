@@ -18,6 +18,8 @@ body_width = None
 num_nodes = None
 num_chars = None
 
+spacy.cli.download("en_core_web_sm")
+
 # Load the pretrained spaCy model
 nlp = spacy.load("en_core_web_sm")
 
@@ -116,12 +118,12 @@ class MultiLevelTagClassifier:
         
         print(f"Using device: {self.device}")
     
-    def load_models(self, model_dir='../Models'):
+    def load_models(self, model_dir='Models'):
         for parent_tag in self.tag_hierarchy.keys():
             model_path = f'{model_dir}/{parent_tag.lower()}_classifier.pth'
             if os.path.exists(model_path):
                 print(f"Loading {parent_tag} model from {model_path}")
-                checkpoint = torch.load(model_path, map_location=self.device)
+                checkpoint = torch.load(model_path, map_location=self.device, weights_only=False)
                 
                 model = ImprovedTagClassifier(
                     checkpoint['input_size'], 
@@ -182,7 +184,7 @@ def load_model_and_encoders():
     imputer = joblib.load("Models/imputer.pkl")
     scaler = joblib.load("Models/scaler.pkl")
 
-    checkpoint = torch.load("Models/tag_classifier_complete.pth", map_location=torch.device('cpu'))
+    checkpoint = torch.load("Models/tag_classifier_complete.pth", map_location=torch.device('cpu'), weights_only=False)
     model = ImprovedTagClassifier(
         input_size=checkpoint['input_size'],
         output_size=checkpoint['output_size']
