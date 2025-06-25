@@ -363,7 +363,13 @@ def process_nodes(node):
             children[i+1].get("tag") == "INPUT"):
             children[i]["tag"] = "LABEL"
             children[i]["base_tag"] = "P"  # Ensure base_tag reflects original
-    
+
+    # Convert DIV with multiple LI to LIST
+    for child in children:
+        if (child.get("base_tag") == "DIV" and 
+            count_list_items(child) >= 2):
+            child["tag"] = "LIST"
+        
     # Identify NAVBAR
     for child in children:
         if ((child.get("base_tag") == "DIV" or child.get("tag") == "DIV" or child.get("base_tag") == "LIST" or child.get("tag") == "LIST") and 
@@ -384,12 +390,7 @@ def process_nodes(node):
         ):
             child["base_tag"] = "DIV"
             child["tag"] = "FOOTER"
-    
-    # Convert DIV with multiple LI to LIST
-    for child in children:
-        if (child.get("base_tag") == "DIV" and 
-            count_list_items(child) >= 2):
-            child["tag"] = "LIST"
+
 
 def count_list_items(node):
     """Count LI elements in direct and first-level indirect children"""
@@ -629,4 +630,4 @@ def process_figma_json(input_file, output_file, svg_file=None):
     print(f"Processed {input_file}. Output saved to {output_file}")
 
 if __name__ == "__main__":
-    process_figma_json("./Data/input.json", "./Data/output.json", "./Data/input.svg")
+    process_figma_json("./Data/input4.json", "./Data/output.json", "./Data/input4.svg")
