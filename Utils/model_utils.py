@@ -119,8 +119,8 @@ class MultiLevelTagClassifier:
         
         # Define tag groups
         self.tag_hierarchy = {
-            'DIV': ['DIV', 'LIST', 'CARD', 'FORM'],
-            'P': ['P', 'LABEL', 'LI', 'A'],
+            'DIV': ['DIV', 'LIST', 'CARD'],
+            'P': ['P', 'LI'],
             'INPUT': ['INPUT', 'DROPDOWN'],
             'ICON': ['ICON', 'CHECKBOX', 'RADIO'],
         }

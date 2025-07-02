@@ -1,0 +1,2142 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "name": "FoodTime",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "characters": "FoodTime",
+                "depth": 50,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 1,
+                      "b": 0.0117647061124444,
+                      "g": 0.42352941632270813,
+                      "r": 0.2235294133424759
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 46.47793960571289,
+                "id": "181:487",
+                "layout": "NONE",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "textStyle": {
+                  "fontFamily": "Poppins",
+                  "fontPostScriptName": "Poppins-Regular",
+                  "fontSize": 28.344642639160156,
+                  "fontStyle": "Regular",
+                  "fontWeight": 400,
+                  "letterSpacing": 0,
+                  "lineHeightPercent": 106.66666412353516,
+                  "lineHeightPercentFontSize": 160,
+                  "lineHeightPx": 45.3514289855957,
+                  "lineHeightUnit": "FONT_SIZE_%",
+                  "textAlignHorizontal": "LEFT",
+                  "textAlignVertical": "TOP"
+                },
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "TEXT",
+                "width": 141.5955810546875,
+                "x": 102,
+                "y": 23.761016845703125
+              },
+              "tag": "P"
+            },
+            {
+              "children": [],
+              "name": "btn-text",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "characters": "Home",
+                "depth": 33,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 1,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 22,
+                "id": "181:514",
+                "layout": "NONE",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "textStyle": {
+                  "fontFamily": "Montserrat",
+                  "fontPostScriptName": "Montserrat-Bold",
+                  "fontSize": 14,
+                  "fontStyle": "Bold",
+                  "fontWeight": 700,
+                  "letterSpacing": 0.20000000298023224,
+                  "lineHeightPercent": 128.91128540039062,
+                  "lineHeightPercentFontSize": 157.14285278320312,
+                  "lineHeightPx": 22,
+                  "lineHeightUnit": "PIXELS",
+                  "textAlignHorizontal": "LEFT",
+                  "textAlignVertical": "TOP",
+                  "textAutoResize": "WIDTH_AND_HEIGHT"
+                },
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "TEXT",
+                "width": 45,
+                "x": 448.595703125,
+                "y": 36
+              },
+              "tag": "P"
+            },
+            {
+              "children": [],
+              "name": "btn-text",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "characters": "Blog",
+                "depth": 32,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 1,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 22,
+                "id": "181:533",
+                "layout": "NONE",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "textStyle": {
+                  "fontFamily": "Montserrat",
+                  "fontPostScriptName": "Montserrat-Bold",
+                  "fontSize": 14,
+                  "fontStyle": "Bold",
+                  "fontWeight": 700,
+                  "letterSpacing": 0.20000000298023224,
+                  "lineHeightPercent": 128.91128540039062,
+                  "lineHeightPercentFontSize": 157.14285278320312,
+                  "lineHeightPx": 22,
+                  "lineHeightUnit": "PIXELS",
+                  "textAlignHorizontal": "LEFT",
+                  "textAlignVertical": "TOP",
+                  "textAutoResize": "WIDTH_AND_HEIGHT"
+                },
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "TEXT",
+                "width": 35,
+                "x": 594.595703125,
+                "y": 36
+              },
+              "tag": "P"
+            },
+            {
+              "children": [],
+              "name": "btn-text",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "characters": "About Us",
+                "depth": 31,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 1,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 22,
+                "id": "181:531",
+                "layout": "NONE",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "textStyle": {
+                  "fontFamily": "Montserrat",
+                  "fontPostScriptName": "Montserrat-Bold",
+                  "fontSize": 14,
+                  "fontStyle": "Bold",
+                  "fontWeight": 700,
+                  "letterSpacing": 0.20000000298023224,
+                  "lineHeightPercent": 128.91128540039062,
+                  "lineHeightPercentFontSize": 157.14285278320312,
+                  "lineHeightPx": 22,
+                  "lineHeightUnit": "PIXELS",
+                  "textAlignHorizontal": "LEFT",
+                  "textAlignVertical": "TOP",
+                  "textAutoResize": "WIDTH_AND_HEIGHT"
+                },
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "TEXT",
+                "width": 70,
+                "x": 730.595703125,
+                "y": 36
+              },
+              "tag": "P"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "name": "btn-text",
+                      "node": {
+                        "StrokeWeight": 0,
+                        "bottomLeftRadius": 0,
+                        "bottomRightRadius": 0,
+                        "characters": "EN",
+                        "depth": 24,
+                        "fills": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 1,
+                              "b": 1,
+                              "g": 1,
+                              "r": 1
+                            },
+                            "imageRef": "",
+                            "type": "SOLID"
+                          }
+                        ],
+                        "flexDirection": "column",
+                        "height": 22,
+                        "id": "181:522",
+                        "layout": "NONE",
+                        "strokes": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 0,
+                              "b": 0,
+                              "g": 0,
+                              "r": 0
+                            },
+                            "type": "SOLID",
+                            "weight": 0
+                          }
+                        ],
+                        "textStyle": {
+                          "fontFamily": "Montserrat",
+                          "fontPostScriptName": "Montserrat-Bold",
+                          "fontSize": 14,
+                          "fontStyle": "Bold",
+                          "fontWeight": 700,
+                          "letterSpacing": 0.20000000298023224,
+                          "lineHeightPercent": 128.91128540039062,
+                          "lineHeightPercentFontSize": 157.14285278320312,
+                          "lineHeightPx": 22,
+                          "lineHeightUnit": "PIXELS",
+                          "textAlignHorizontal": "LEFT",
+                          "textAlignVertical": "TOP",
+                          "textAutoResize": "WIDTH_AND_HEIGHT"
+                        },
+                        "topLeftRadius": 0,
+                        "topRightRadius": 0,
+                        "type": "TEXT",
+                        "width": 21,
+                        "x": 931.595703125,
+                        "y": 36
+                      },
+                      "tag": "P"
+                    },
+                    {
+                      "children": [],
+                      "name": "Vector",
+                      "node": {
+                        "StrokeWeight": 0,
+                        "bottomLeftRadius": 0,
+                        "bottomRightRadius": 0,
+                        "depth": 14,
+                        "fills": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 1,
+                              "b": 0.24583333730697632,
+                              "g": 0.24583333730697632,
+                              "r": 0.24583333730697632
+                            },
+                            "imageRef": "",
+                            "type": "SOLID"
+                          }
+                        ],
+                        "flexDirection": "column",
+                        "height": 8,
+                        "id": "181:529",
+                        "layout": "NONE",
+                        "strokes": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 0,
+                              "b": 0,
+                              "g": 0,
+                              "r": 0
+                            },
+                            "type": "SOLID",
+                            "weight": 0
+                          }
+                        ],
+                        "topLeftRadius": 0,
+                        "topRightRadius": 0,
+                        "type": "VECTOR",
+                        "width": 13.576310157775879,
+                        "x": 962.595703125,
+                        "y": 43
+                      },
+                      "tag": "UNK"
+                    }
+                  ],
+                  "name": "BUTTON",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 5,
+                    "bottomRightRadius": 5,
+                    "depth": 30,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 1,
+                          "b": 0.48627451062202454,
+                          "g": 0.7333333492279053,
+                          "r": 0.5882353186607361
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 52,
+                    "id": "181:521",
+                    "layout": "COLUMNS",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "topLeftRadius": 5,
+                    "topRightRadius": 5,
+                    "type": "FRAME",
+                    "width": 104.57630920410156,
+                    "x": 901.595703125,
+                    "y": 21
+                  },
+                  "tag": "BUTTON"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "name": "Login",
+                      "node": {
+                        "StrokeWeight": 0,
+                        "bottomLeftRadius": 0,
+                        "bottomRightRadius": 0,
+                        "characters": "Login",
+                        "depth": 5,
+                        "fills": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 1,
+                              "b": 1,
+                              "g": 1,
+                              "r": 1
+                            },
+                            "imageRef": "",
+                            "type": "SOLID"
+                          }
+                        ],
+                        "flexDirection": "column",
+                        "height": 34,
+                        "id": "I181:498;39:72",
+                        "layout": "NONE",
+                        "strokes": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 0,
+                              "b": 0,
+                              "g": 0,
+                              "r": 0
+                            },
+                            "type": "SOLID",
+                            "weight": 0
+                          }
+                        ],
+                        "textStyle": {
+                          "fontFamily": "Poppins",
+                          "fontPostScriptName": "Poppins-Medium",
+                          "fontSize": 20,
+                          "fontStyle": "Medium",
+                          "fontWeight": 500,
+                          "letterSpacing": 0,
+                          "lineHeightPercent": 113.33333587646484,
+                          "lineHeightPercentFontSize": 170,
+                          "lineHeightPx": 34,
+                          "lineHeightUnit": "FONT_SIZE_%",
+                          "textAlignHorizontal": "LEFT",
+                          "textAlignVertical": "TOP",
+                          "textAutoResize": "WIDTH_AND_HEIGHT"
+                        },
+                        "topLeftRadius": 0,
+                        "topRightRadius": 0,
+                        "type": "TEXT",
+                        "width": 54,
+                        "x": 1157.171875,
+                        "y": 30
+                      },
+                      "tag": "P"
+                    }
+                  ],
+                  "name": "Primary button Large",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 225,
+                    "bottomRightRadius": 225,
+                    "depth": 7,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 1,
+                          "b": 0.0117647061124444,
+                          "g": 0.42352941632270813,
+                          "r": 0.2235294133424759
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 58,
+                    "id": "181:498",
+                    "layout": "NONE",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "topLeftRadius": 225,
+                    "topRightRadius": 225,
+                    "type": "INSTANCE",
+                    "width": 154,
+                    "x": 1107.171875,
+                    "y": 18
+                  },
+                  "tag": "UNK"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "name": "Vector",
+                      "node": {
+                        "StrokeWeight": 0,
+                        "bottomLeftRadius": 0,
+                        "bottomRightRadius": 0,
+                        "depth": 0,
+                        "fills": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 1,
+                              "b": 1,
+                              "g": 1,
+                              "r": 1
+                            },
+                            "imageRef": "",
+                            "type": "SOLID"
+                          }
+                        ],
+                        "flexDirection": "column",
+                        "height": 30,
+                        "id": "181:501",
+                        "layout": "NONE",
+                        "strokes": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 0,
+                              "b": 0,
+                              "g": 0,
+                              "r": 0
+                            },
+                            "type": "SOLID",
+                            "weight": 0
+                          }
+                        ],
+                        "topLeftRadius": 0,
+                        "topRightRadius": 0,
+                        "type": "VECTOR",
+                        "width": 28,
+                        "x": 1300.171875,
+                        "y": 32
+                      },
+                      "tag": "UNK"
+                    }
+                  ],
+                  "name": "Ellipse 3",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "depth": 1,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 1,
+                          "b": 0.0117647061124444,
+                          "g": 0.42352941632270813,
+                          "r": 0.2235294133424759
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 60,
+                    "id": "181:500",
+                    "layout": "NONE",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "type": "ELLIPSE",
+                    "width": 60,
+                    "x": 1284.171875,
+                    "y": 17
+                  },
+                  "tag": "UNK"
+                }
+              ],
+              "name": "TREE BUILDER GROUP",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "depth": 1,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 60,
+                "id": 1,
+                "layout": "COLUMNS",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "GROUP",
+                "width": 442.576171875,
+                "x": 901.595703125,
+                "y": 17
+              },
+              "tag": "UNK"
+            }
+          ],
+          "name": "TREE BUILDER GROUP",
+          "node": {
+            "StrokeWeight": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "depth": 1,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "color": {
+                  "a": 0,
+                  "b": 0,
+                  "g": 0,
+                  "r": 0
+                },
+                "imageRef": "",
+                "type": "SOLID"
+              }
+            ],
+            "flexDirection": "column",
+            "height": 60,
+            "id": 1,
+            "layout": "COLUMNS",
+            "strokes": [
+              {
+                "blendMode": "NORMAL",
+                "color": {
+                  "a": 0,
+                  "b": 0,
+                  "g": 0,
+                  "r": 0
+                },
+                "type": "SOLID",
+                "weight": 0
+              }
+            ],
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "type": "GROUP",
+            "width": 1242.171875,
+            "x": 102,
+            "y": 17
+          },
+          "tag": "UNK"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "name": "Explore your favourite city’s food.",
+                      "node": {
+                        "StrokeWeight": 0,
+                        "bottomLeftRadius": 0,
+                        "bottomRightRadius": 0,
+                        "characters": "Explore your favourite city’s food.",
+                        "depth": 100,
+                        "fills": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 1,
+                              "b": 0.0117647061124444,
+                              "g": 0.42352941632270813,
+                              "r": 0.2235294133424759
+                            },
+                            "imageRef": "",
+                            "type": "SOLID"
+                          }
+                        ],
+                        "flexDirection": "column",
+                        "height": 130,
+                        "id": "181:465",
+                        "layout": "NONE",
+                        "strokes": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 0,
+                              "b": 0,
+                              "g": 0,
+                              "r": 0
+                            },
+                            "type": "SOLID",
+                            "weight": 0
+                          }
+                        ],
+                        "textStyle": {
+                          "fontFamily": "Merienda",
+                          "fontPostScriptName": "Merienda-Bold",
+                          "fontSize": 50,
+                          "fontStyle": "Bold",
+                          "fontWeight": 700,
+                          "letterSpacing": 0,
+                          "lineHeightPercent": 90.02770233154297,
+                          "lineHeightPercentFontSize": 130,
+                          "lineHeightPx": 65,
+                          "lineHeightUnit": "FONT_SIZE_%",
+                          "textAlignHorizontal": "LEFT",
+                          "textAlignVertical": "TOP",
+                          "textAutoResize": "HEIGHT"
+                        },
+                        "topLeftRadius": 0,
+                        "topRightRadius": 0,
+                        "type": "TEXT",
+                        "width": 527,
+                        "x": 100,
+                        "y": 146
+                      },
+                      "tag": "P"
+                    },
+                    {
+                      "children": [],
+                      "name": "Lorem ipsum dolor sit amet consectetur. Ornare massa nunc nibh tristique. Non ligula tristique ut ut libero sit convallis maecenas. At egestas auctor porta mattis.",
+                      "node": {
+                        "StrokeWeight": 0,
+                        "bottomLeftRadius": 0,
+                        "bottomRightRadius": 0,
+                        "characters": "Lorem ipsum dolor sit amet consectetur. Ornare massa nunc nibh tristique. Non ligula tristique ut ut libero sit convallis maecenas. At egestas auctor porta mattis.",
+                        "depth": 99,
+                        "fills": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 1,
+                              "b": 0.40248262882232666,
+                              "g": 0.40248262882232666,
+                              "r": 0.40416666865348816
+                            },
+                            "imageRef": "",
+                            "type": "SOLID"
+                          }
+                        ],
+                        "flexDirection": "column",
+                        "height": 87,
+                        "id": "181:466",
+                        "layout": "NONE",
+                        "strokes": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 0,
+                              "b": 0,
+                              "g": 0,
+                              "r": 0
+                            },
+                            "type": "SOLID",
+                            "weight": 0
+                          }
+                        ],
+                        "textStyle": {
+                          "fontFamily": "Poppins",
+                          "fontPostScriptName": "Poppins-Regular",
+                          "fontSize": 18,
+                          "fontStyle": "Regular",
+                          "fontWeight": 400,
+                          "letterSpacing": 0,
+                          "lineHeightPercent": 106.66666412353516,
+                          "lineHeightPercentFontSize": 160,
+                          "lineHeightPx": 28.80000114440918,
+                          "lineHeightUnit": "FONT_SIZE_%",
+                          "textAlignHorizontal": "LEFT",
+                          "textAlignVertical": "TOP",
+                          "textAutoResize": "HEIGHT"
+                        },
+                        "topLeftRadius": 0,
+                        "topRightRadius": 0,
+                        "type": "TEXT",
+                        "width": 567,
+                        "x": 100,
+                        "y": 286
+                      },
+                      "tag": "P"
+                    }
+                  ],
+                  "name": "TREE BUILDER GROUP",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "depth": 99,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 227,
+                    "id": 99,
+                    "layout": "ROWS",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "type": "GROUP",
+                    "width": 567,
+                    "x": 100,
+                    "y": 146
+                  },
+                  "tag": "UNK"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "name": "btn-text",
+                      "node": {
+                        "StrokeWeight": 0,
+                        "bottomLeftRadius": 0,
+                        "bottomRightRadius": 0,
+                        "characters": "Explore",
+                        "depth": 105,
+                        "fills": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 1,
+                              "b": 1,
+                              "g": 1,
+                              "r": 1
+                            },
+                            "imageRef": "",
+                            "type": "SOLID"
+                          }
+                        ],
+                        "flexDirection": "column",
+                        "height": 22,
+                        "id": "181:461",
+                        "layout": "NONE",
+                        "strokes": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 0,
+                              "b": 0,
+                              "g": 0,
+                              "r": 0
+                            },
+                            "type": "SOLID",
+                            "weight": 0
+                          }
+                        ],
+                        "textStyle": {
+                          "fontFamily": "Montserrat",
+                          "fontPostScriptName": "Montserrat-Bold",
+                          "fontSize": 14,
+                          "fontStyle": "Bold",
+                          "fontWeight": 700,
+                          "letterSpacing": 0.20000000298023224,
+                          "lineHeightPercent": 128.91128540039062,
+                          "lineHeightPercentFontSize": 157.14285278320312,
+                          "lineHeightPx": 22,
+                          "lineHeightUnit": "PIXELS",
+                          "textAlignHorizontal": "LEFT",
+                          "textAlignVertical": "TOP",
+                          "textAutoResize": "WIDTH_AND_HEIGHT"
+                        },
+                        "topLeftRadius": 0,
+                        "topRightRadius": 0,
+                        "type": "TEXT",
+                        "width": 57,
+                        "x": 125,
+                        "y": 427
+                      },
+                      "tag": "P"
+                    },
+                    {
+                      "children": [],
+                      "imageUrl": "https://s3-alpha-sig.figma.com/img/a150/1ea8/19083567358de04754302b6ea423c5ed?Expires=1751846400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VOqikB4q2cqnw8WSfczwxrusqH91q~1rl4iA1i~eymxCrF~KZIVoitUGAPBaLJb0z2nMCcOFdC7BP-0syye5kZCG-wvOkKJU0cY0yhrGEf7dJu2TkQGEX3iPjESnSCYwypkNYh~3ORzcauDYWwUg4C2zXXXPVjEf2BuVXSMJi6Gu1Dl-iNRRV3R-DtdrqHC4SbKWLCB32S0p7aDValg98~7xDRRRqH948btgmfwfsrgtYEAOgPK0KDoDoEzBc0vKsGXcQYWFOL-UiY029~XlkKdJfV5QlGfRIpFZrTj08KnYXtzOIfzEoTDhzDsjoM3-9P5lb-xp~mbQ2jGQoGPoFw__",
+                      "name": "image 16",
+                      "node": {
+                        "StrokeWeight": 0,
+                        "bottomLeftRadius": 0,
+                        "bottomRightRadius": 0,
+                        "depth": 104,
+                        "fills": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 0,
+                              "b": 0,
+                              "g": 0,
+                              "r": 0
+                            },
+                            "imageRef": "",
+                            "type": "SOLID"
+                          }
+                        ],
+                        "flexDirection": "column",
+                        "height": 20,
+                        "id": "181:462",
+                        "layout": "NONE",
+                        "strokes": [
+                          {
+                            "blendMode": "NORMAL",
+                            "color": {
+                              "a": 0,
+                              "b": 0,
+                              "g": 0,
+                              "r": 0
+                            },
+                            "type": "SOLID",
+                            "weight": 0
+                          }
+                        ],
+                        "topLeftRadius": 0,
+                        "topRightRadius": 0,
+                        "type": "RECTANGLE",
+                        "width": 32,
+                        "x": 185,
+                        "y": 428
+                      },
+                      "tag": "SVG"
+                    }
+                  ],
+                  "name": "BUTTON",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 5,
+                    "bottomRightRadius": 5,
+                    "depth": 108,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 1,
+                          "b": 0.48627451062202454,
+                          "g": 0.7333333492279053,
+                          "r": 0.5882353186607361
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 52,
+                    "id": "181:460",
+                    "layout": "COLUMNS",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "topLeftRadius": 5,
+                    "topRightRadius": 5,
+                    "type": "FRAME",
+                    "width": 129,
+                    "x": 100,
+                    "y": 412
+                  },
+                  "tag": "BUTTON"
+                }
+              ],
+              "name": "TREE BUILDER GROUP",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "depth": 99,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 318,
+                "id": 99,
+                "layout": "ROWS",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "GROUP",
+                "width": 567,
+                "x": 100,
+                "y": 146
+              },
+              "tag": "UNK"
+            },
+            {
+              "children": [],
+              "imageUrl": "https://s3-alpha-sig.figma.com/img/c8c3/eebc/7e4d8396caeb3982b3e219b3a48c88f6?Expires=1751846400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=D1CiIY~c7OY4FtmuSE07ABtl4HR35-WTbS6GINEk-1EOu6QzGX36XK1wAnGlrWUUTeG-wtGm6b4SEIzgO6COkfS1zKI1nGiR9d87bWEF0gqMRgtL9s~pPCo995ng3llSb7bC2qE7EFNd-35DzOItbZVPS2lRKBBjkU8MTwt6j4AUsuQ9OCi2m3fhj9jupPWTbREY-dpoLK0QWw2QSA9k4qOYxtL~tQvqNI3LzqrvWD3dx8sd0yfB88wH6hSgbEwrLtxSFZ~6X1e3HuJIZhSMJuIqL6Wz6jY59uq8iVrXOW76klP8YGh~k7SE06aGsVKouFtyTjS7hTNAfstPf3GP7Q__",
+              "name": "image 2",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "depth": 101,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 470,
+                "id": "181:464",
+                "layout": "NONE",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "RECTANGLE",
+                "width": 705,
+                "x": 677,
+                "y": 81
+              },
+              "tag": "SVG"
+            }
+          ],
+          "name": "TREE BUILDER GROUP",
+          "node": {
+            "StrokeWeight": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "depth": 99,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "color": {
+                  "a": 0,
+                  "b": 0,
+                  "g": 0,
+                  "r": 0
+                },
+                "imageRef": "",
+                "type": "SOLID"
+              }
+            ],
+            "flexDirection": "column",
+            "height": 470,
+            "id": 99,
+            "layout": "COLUMNS",
+            "strokes": [
+              {
+                "blendMode": "NORMAL",
+                "color": {
+                  "a": 0,
+                  "b": 0,
+                  "g": 0,
+                  "r": 0
+                },
+                "type": "SOLID",
+                "weight": 0
+              }
+            ],
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "type": "GROUP",
+            "width": 1282,
+            "x": 100,
+            "y": 81
+          },
+          "tag": "UNK"
+        }
+      ],
+      "name": "Rectangle 9",
+      "node": {
+        "StrokeWeight": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "depth": 109,
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "color": {
+              "a": 0.05000000074505806,
+              "b": 0,
+              "g": 0.545098066329956,
+              "r": 1
+            },
+            "imageRef": "",
+            "type": "SOLID"
+          }
+        ],
+        "flexDirection": "column",
+        "height": 600,
+        "id": "181:459",
+        "layout": "ROWS",
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "color": {
+              "a": 0,
+              "b": 0,
+              "g": 0,
+              "r": 0
+            },
+            "type": "SOLID",
+            "weight": 0
+          }
+        ],
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "type": "RECTANGLE",
+        "width": 1408,
+        "x": 33,
+        "y": 7
+      },
+      "tag": "UNK"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "imageUrl": "https://s3-alpha-sig.figma.com/img/67c0/769b/e69c6358e08eb6458d8f82caaa8cc840?Expires=1751846400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=s9JQ9wxtDhOnCAYAds8WVuvTe9OUE0Dhn3M-YcX0E1oUgxbWTdBMsw0H2GQoMlrHfA3AsBs6X8DqQKWXFc7XHGrKTpaKMd8rQMSeQ9JSFLp3rS8YjyWaKvkMIiRo~CvBgmUXNqSFWowY9dPFOInLsTcdeR8Guri5teHqtLVhGMYYBA3rXjZQpdQWUjI6IqT1b6tjK-uCBuwpgk99GuRtTgJYvvdS~Kf4OJma8eNSM2f9vqBBZHPnToAz5-i49WDcSw0VjZ5h3GpN2wZGNL694wFdCd3G-rseWBeDyGUe99tNSajFE6ez-7gA3PTfrX5SzWRINlY96NKPCrqqLZ2v1g__",
+              "name": "image 14",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "depth": 72,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 80,
+                "id": "181:484",
+                "layout": "NONE",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "RECTANGLE",
+                "width": 72,
+                "x": 141,
+                "y": 775
+              },
+              "tag": "SVG"
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "name": "Wide selection of restaurants",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "characters": "Wide selection of restaurants",
+                    "depth": 73,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 1,
+                          "b": 0.24583333730697632,
+                          "g": 0.24583333730697632,
+                          "r": 0.24583333730697632
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 84,
+                    "id": "181:483",
+                    "layout": "NONE",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "textStyle": {
+                      "fontFamily": "Poppins",
+                      "fontPostScriptName": "Poppins-SemiBold",
+                      "fontSize": 30,
+                      "fontStyle": "SemiBold",
+                      "fontWeight": 600,
+                      "letterSpacing": 0,
+                      "lineHeightPercent": 93.33333587646484,
+                      "lineHeightPercentFontSize": 140,
+                      "lineHeightPx": 42,
+                      "lineHeightUnit": "FONT_SIZE_%",
+                      "textAlignHorizontal": "LEFT",
+                      "textAlignVertical": "TOP",
+                      "textAutoResize": "HEIGHT"
+                    },
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "type": "TEXT",
+                    "width": 293,
+                    "x": 151,
+                    "y": 877
+                  },
+                  "tag": "P"
+                },
+                {
+                  "children": [],
+                  "name": "Lorem ipsum dolor sit amet consectetur. Ornare massa nunc nibh tristique.",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "characters": "Lorem ipsum dolor sit amet consectetur. Ornare massa nunc nibh tristique.",
+                    "depth": 74,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 1,
+                          "b": 0.40248262882232666,
+                          "g": 0.40248262882232666,
+                          "r": 0.40416666865348816
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 87,
+                    "id": "181:482",
+                    "layout": "NONE",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "textStyle": {
+                      "fontFamily": "Poppins",
+                      "fontPostScriptName": "Poppins-Regular",
+                      "fontSize": 18,
+                      "fontStyle": "Regular",
+                      "fontWeight": 400,
+                      "letterSpacing": 0,
+                      "lineHeightPercent": 106.66666412353516,
+                      "lineHeightPercentFontSize": 160,
+                      "lineHeightPx": 28.80000114440918,
+                      "lineHeightUnit": "FONT_SIZE_%",
+                      "textAlignHorizontal": "LEFT",
+                      "textAlignVertical": "TOP",
+                      "textAutoResize": "HEIGHT"
+                    },
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "type": "TEXT",
+                    "width": 293,
+                    "x": 151,
+                    "y": 968
+                  },
+                  "tag": "P"
+                }
+              ],
+              "name": "TREE BUILDER GROUP",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "depth": 73,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 178,
+                "id": 73,
+                "layout": "ROWS",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "GROUP",
+                "width": 293,
+                "x": 151,
+                "y": 877
+              },
+              "tag": "UNK"
+            }
+          ],
+          "name": "Rectangle 60",
+          "node": {
+            "StrokeWeight": 0,
+            "bottomLeftRadius": 15,
+            "bottomRightRadius": 15,
+            "depth": 75,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "color": {
+                  "a": 0.05000000074505806,
+                  "b": 0.0117647061124444,
+                  "g": 0.42352941632270813,
+                  "r": 0.2235294133424759
+                },
+                "imageRef": "",
+                "type": "SOLID"
+              }
+            ],
+            "flexDirection": "column",
+            "height": 388,
+            "id": "181:481",
+            "layout": "ROWS",
+            "strokes": [
+              {
+                "blendMode": "NORMAL",
+                "color": {
+                  "a": 0,
+                  "b": 0,
+                  "g": 0,
+                  "r": 0
+                },
+                "type": "SOLID",
+                "weight": 0
+              }
+            ],
+            "topLeftRadius": 15,
+            "topRightRadius": 15,
+            "type": "RECTANGLE",
+            "width": 394,
+            "x": 100,
+            "y": 707
+          },
+          "tag": "UNK"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "imageUrl": "https://s3-alpha-sig.figma.com/img/b691/bb99/f6cdd1196738a2844186a7d916b2488c?Expires=1751846400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sH1g8DM4DCwhhOdMDMT7VYw2Pb-J-5HXEM2NIyp5I-G1bRiTi4CK0FCPuR3-Lav1dBNAVzfdq5LzRi~O5gjDD3~dricxBmu671NMQ0yzkhPaD~n~6OzHeXKRQ6ApYFC6d13aWd5fYRpIiausVrW2GXj-NJjzBjKSZkb~wxmdi-za-gL7Acm-Pavijugbg9kpWD14kwOYDSMiVIWJRgmSeiZMEj-GPHKQ0rQHFTwN2-l2jsznWASffEgOfhuqV80W2p2vedoMXVpXJ~mXLJ3djx2HTZCQ5GnaqVHc~Wh4kZtxq2iUjHfu6JfMwzclUHI4SIK8Pos-OIPS2TC5i7raHw__",
+              "name": "image 13",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "depth": 81,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 93,
+                "id": "181:479",
+                "layout": "NONE",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "RECTANGLE",
+                "width": 68,
+                "x": 597,
+                "y": 760
+              },
+              "tag": "SVG"
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "name": "Easy ordering process",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "characters": "Easy ordering process",
+                    "depth": 82,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 1,
+                          "b": 0.24583333730697632,
+                          "g": 0.24583333730697632,
+                          "r": 0.24583333730697632
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 84,
+                    "id": "181:478",
+                    "layout": "NONE",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "textStyle": {
+                      "fontFamily": "Poppins",
+                      "fontPostScriptName": "Poppins-SemiBold",
+                      "fontSize": 30,
+                      "fontStyle": "SemiBold",
+                      "fontWeight": 600,
+                      "letterSpacing": 0,
+                      "lineHeightPercent": 93.33333587646484,
+                      "lineHeightPercentFontSize": 140,
+                      "lineHeightPx": 42,
+                      "lineHeightUnit": "FONT_SIZE_%",
+                      "textAlignHorizontal": "LEFT",
+                      "textAlignVertical": "TOP",
+                      "textAutoResize": "HEIGHT"
+                    },
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "type": "TEXT",
+                    "width": 293,
+                    "x": 597,
+                    "y": 869
+                  },
+                  "tag": "P"
+                },
+                {
+                  "children": [],
+                  "name": "Lorem ipsum dolor sit amet consectetur. Ornare massa nunc .",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "characters": "Lorem ipsum dolor sit amet consectetur. Ornare massa nunc .",
+                    "depth": 83,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 1,
+                          "b": 0.40248262882232666,
+                          "g": 0.40248262882232666,
+                          "r": 0.40416666865348816
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 87,
+                    "id": "181:477",
+                    "layout": "NONE",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "textStyle": {
+                      "fontFamily": "Poppins",
+                      "fontPostScriptName": "Poppins-Regular",
+                      "fontSize": 18,
+                      "fontStyle": "Regular",
+                      "fontWeight": 400,
+                      "letterSpacing": 0,
+                      "lineHeightPercent": 106.66666412353516,
+                      "lineHeightPercentFontSize": 160,
+                      "lineHeightPx": 28.80000114440918,
+                      "lineHeightUnit": "FONT_SIZE_%",
+                      "textAlignHorizontal": "LEFT",
+                      "textAlignVertical": "TOP",
+                      "textAutoResize": "HEIGHT"
+                    },
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "type": "TEXT",
+                    "width": 286,
+                    "x": 597,
+                    "y": 960
+                  },
+                  "tag": "P"
+                }
+              ],
+              "name": "TREE BUILDER GROUP",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "depth": 82,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 178,
+                "id": 82,
+                "layout": "ROWS",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "GROUP",
+                "width": 293,
+                "x": 597,
+                "y": 869
+              },
+              "tag": "UNK"
+            }
+          ],
+          "name": "Rectangle 64",
+          "node": {
+            "StrokeWeight": 0,
+            "bottomLeftRadius": 15,
+            "bottomRightRadius": 15,
+            "depth": 84,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "color": {
+                  "a": 0.05000000074505806,
+                  "b": 0.0117647061124444,
+                  "g": 0.42352941632270813,
+                  "r": 0.2235294133424759
+                },
+                "imageRef": "",
+                "type": "SOLID"
+              }
+            ],
+            "flexDirection": "column",
+            "height": 388,
+            "id": "181:476",
+            "layout": "ROWS",
+            "strokes": [
+              {
+                "blendMode": "NORMAL",
+                "color": {
+                  "a": 0,
+                  "b": 0,
+                  "g": 0,
+                  "r": 0
+                },
+                "type": "SOLID",
+                "weight": 0
+              }
+            ],
+            "topLeftRadius": 15,
+            "topRightRadius": 15,
+            "type": "RECTANGLE",
+            "width": 394,
+            "x": 539,
+            "y": 707
+          },
+          "tag": "UNK"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "imageUrl": "https://s3-alpha-sig.figma.com/img/4116/e4ab/cd602a600047532c67f3246f5949cc3f?Expires=1751846400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Ws1vODm7K58E0GedKw0ulC1mRF0FGSxW~z9B5kNBREdRLl5PAehZnyLgeBNJtbuyvKn5rNPH9a7vM0RJQPAD00aVnqgA8xSGlK8vRVJOTX~E0mNM7zd8PbJPUkETt0oMLc~kSF8bNI9gaQv42qw6wXzMUS7X8XOfUmvGXw4dwJf17dTmKk0QIdJ0Y1YlhXEt7rA76Gh0XoPMTCZck7T7CeixJgy6SYE1epIbJJOeEgq7Op9tX8LrFr6H8gY4HLZiU6VQALNleGg1uJT085lYuThOTpMgy7Zc7eCj-P4pQwAXlW1dwtMG55Y7N9-rftX1TOJrHfbANHFc43O9XsKKTw__",
+              "name": "image 12",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "depth": 90,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 97,
+                "id": "181:474",
+                "layout": "NONE",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "RECTANGLE",
+                "width": 104,
+                "x": 1036,
+                "y": 760
+              },
+              "tag": "SVG"
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "name": "Fast delivery within 20 min",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "characters": "Fast delivery within 20 min",
+                    "depth": 91,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 1,
+                          "b": 0.24583333730697632,
+                          "g": 0.24583333730697632,
+                          "r": 0.24583333730697632
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 84,
+                    "id": "181:473",
+                    "layout": "NONE",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "textStyle": {
+                      "fontFamily": "Poppins",
+                      "fontPostScriptName": "Poppins-SemiBold",
+                      "fontSize": 30,
+                      "fontStyle": "SemiBold",
+                      "fontWeight": 600,
+                      "letterSpacing": 0,
+                      "lineHeightPercent": 93.33333587646484,
+                      "lineHeightPercentFontSize": 140,
+                      "lineHeightPx": 42,
+                      "lineHeightUnit": "FONT_SIZE_%",
+                      "textAlignHorizontal": "LEFT",
+                      "textAlignVertical": "TOP",
+                      "textAutoResize": "HEIGHT"
+                    },
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "type": "TEXT",
+                    "width": 272,
+                    "x": 1036,
+                    "y": 869
+                  },
+                  "tag": "P"
+                },
+                {
+                  "children": [],
+                  "name": "Lorem ipsum dolor sit amet consectetur. Ornare massa nunc nibh.",
+                  "node": {
+                    "StrokeWeight": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "characters": "Lorem ipsum dolor sit amet consectetur. Ornare massa nunc nibh.",
+                    "depth": 92,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 1,
+                          "b": 0.40248262882232666,
+                          "g": 0.40248262882232666,
+                          "r": 0.40416666865348816
+                        },
+                        "imageRef": "",
+                        "type": "SOLID"
+                      }
+                    ],
+                    "flexDirection": "column",
+                    "height": 87,
+                    "id": "181:472",
+                    "layout": "NONE",
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "color": {
+                          "a": 0,
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        },
+                        "type": "SOLID",
+                        "weight": 0
+                      }
+                    ],
+                    "textStyle": {
+                      "fontFamily": "Poppins",
+                      "fontPostScriptName": "Poppins-Regular",
+                      "fontSize": 18,
+                      "fontStyle": "Regular",
+                      "fontWeight": 400,
+                      "letterSpacing": 0,
+                      "lineHeightPercent": 106.66666412353516,
+                      "lineHeightPercentFontSize": 160,
+                      "lineHeightPx": 28.80000114440918,
+                      "lineHeightUnit": "FONT_SIZE_%",
+                      "textAlignHorizontal": "LEFT",
+                      "textAlignVertical": "TOP",
+                      "textAutoResize": "HEIGHT"
+                    },
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "type": "TEXT",
+                    "width": 287,
+                    "x": 1032,
+                    "y": 962
+                  },
+                  "tag": "P"
+                }
+              ],
+              "name": "TREE BUILDER GROUP",
+              "node": {
+                "StrokeWeight": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "depth": 91,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "imageRef": "",
+                    "type": "SOLID"
+                  }
+                ],
+                "flexDirection": "column",
+                "height": 180,
+                "id": 91,
+                "layout": "ROWS",
+                "strokes": [
+                  {
+                    "blendMode": "NORMAL",
+                    "color": {
+                      "a": 0,
+                      "b": 0,
+                      "g": 0,
+                      "r": 0
+                    },
+                    "type": "SOLID",
+                    "weight": 0
+                  }
+                ],
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "type": "GROUP",
+                "width": 287,
+                "x": 1032,
+                "y": 869
+              },
+              "tag": "UNK"
+            }
+          ],
+          "name": "Rectangle 65",
+          "node": {
+            "StrokeWeight": 0,
+            "bottomLeftRadius": 15,
+            "bottomRightRadius": 15,
+            "depth": 93,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "color": {
+                  "a": 0.05000000074505806,
+                  "b": 0.0117647061124444,
+                  "g": 0.42352941632270813,
+                  "r": 0.2235294133424759
+                },
+                "imageRef": "",
+                "type": "SOLID"
+              }
+            ],
+            "flexDirection": "column",
+            "height": 388,
+            "id": "181:471",
+            "layout": "ROWS",
+            "strokes": [
+              {
+                "blendMode": "NORMAL",
+                "color": {
+                  "a": 0,
+                  "b": 0,
+                  "g": 0,
+                  "r": 0
+                },
+                "type": "SOLID",
+                "weight": 0
+              }
+            ],
+            "topLeftRadius": 15,
+            "topRightRadius": 15,
+            "type": "RECTANGLE",
+            "width": 394,
+            "x": 978,
+            "y": 707
+          },
+          "tag": "UNK"
+        }
+      ],
+      "name": "Rectangle 6",
+      "node": {
+        "StrokeWeight": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "depth": 110,
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "color": {
+              "a": 0.10000000149011612,
+              "b": 0.25882354378700256,
+              "g": 0.5686274766921997,
+              "r": 0.41960784792900085
+            },
+            "imageRef": "",
+            "type": "SOLID"
+          }
+        ],
+        "flexDirection": "column",
+        "height": 604,
+        "id": "181:458",
+        "layout": "COLUMNS",
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "color": {
+              "a": 0,
+              "b": 0,
+              "g": 0,
+              "r": 0
+            },
+            "type": "SOLID",
+            "weight": 0
+          }
+        ],
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "type": "VECTOR",
+        "width": 1408,
+        "x": 32,
+        "y": 607
+      },
+      "tag": "UNK"
+    }
+  ],
+  "name": "TREE BUILDER GROUP",
+  "node": {
+    "StrokeWeight": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "depth": 11111,
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "color": {
+          "a": 0,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "imageRef": "",
+        "type": "SOLID"
+      }
+    ],
+    "flexDirection": "column",
+    "height": 1204,
+    "id": 11111,
+    "layout": "ROWS",
+    "strokes": [
+      {
+        "blendMode": "NORMAL",
+        "color": {
+          "a": 0,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "type": "SOLID",
+        "weight": 0
+      }
+    ],
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "type": "GROUP",
+    "width": 1409,
+    "x": 32,
+    "y": 7
+  },
+  "tag": "UNK"
+}

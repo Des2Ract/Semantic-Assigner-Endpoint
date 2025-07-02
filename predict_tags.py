@@ -246,18 +246,16 @@ def predict_tag(node, sibling_count, prev_sibling_tag, parent_height, parent_bg_
     if figma_type == "TEXT":
         node["tag"] = "P"
         node["base_tag"] = "P"
-    elif figma_type == "SVG":
+    elif figma_type == "VECTOR" or node.get("tag","") == "SVG" or ((fills := node_data.get("fills", [])) and any(fill.get("type","SOLID") == "IMAGE" for fill in fills)):
         node["tag"] = "SVG"
         node["base_tag"] = "SVG"
-    elif figma_type == "VECTOR":
-        node["tag"] = "ICON"
-        node["base_tag"] = "ICON"
+        w = node_data.get("width", 0)
+        h = node_data.get("height", 0)
+        if w * h < 2000:
+            node["tag"] = "ICON"
     elif figma_type == "LINE":
         node["tag"] = "HR"
         node["base_tag"] = "HR"
-    elif (fills := node_data.get("fills", [])) and any(fill.get("type") == "IMAGE" for fill in fills): 
-        node["tag"] = "SVG"
-        node["base_tag"] = "SVG"
     elif "icon" in node.get("name", "").lower():
         node["tag"] = "ICON"
         node["base_tag"] = "ICON"
@@ -324,7 +322,7 @@ def predict_tag(node, sibling_count, prev_sibling_tag, parent_height, parent_bg_
     predicted_tag = base_predicted_tag
     confidence = base_confidence
     
-    for sub_classifier in ['ICON', 'P', 'INPUT', 'DIV']:
+    for sub_classifier in ['ICON', 'P', 'DIV']:
         if base_predicted_tag == sub_classifier:
             predicted_tag, confidence = multi_classifier.predict_hierarchical(feature, base_predicted_tag)
             break
@@ -630,4 +628,4 @@ def process_figma_json(input_file, output_file, svg_file=None):
     print(f"Processed {input_file}. Output saved to {output_file}")
 
 if __name__ == "__main__":
-    process_figma_json("./Data/input4.json", "./Data/output.json", "./Data/input4.svg")
+    process_figma_json("./Data/test3.json", "./Data/output.json","./Data/test3.svg")
